@@ -6,4 +6,5 @@
 	url = https://github.com/polkascan/explorer-api.git
 [submodule "explorer-ui"]
 	path = explorer-ui
-	url = https://github.com/polkascan/explorer-ui.git
+	url = https://github.com/deeper-chain/polkascan-explorer-ui.git
+	branch = topster
